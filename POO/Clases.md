@@ -6,9 +6,11 @@ Una clase es una plantilla o un molde que define la estructura y el comportamien
 
 La sintaxis para definir una clase en Python es la siguiente:
 
+```python
 class MiClase:
     # Definición de atributos y métodos
     pass
+```
 
 ### Atributos de clase
 
