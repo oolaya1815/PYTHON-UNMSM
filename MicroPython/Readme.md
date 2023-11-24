@@ -45,7 +45,7 @@ Una vez que se tiene todo lo necesario, se puede seguir los siguientes pasos:
 
 - A continuación se muestra un ejemplo de código de MicroPython que hace parpadear un LED conectado al pin 2 del ESP32:
 
-```
+```python
 # Importar el módulo machine
 import machine
 
